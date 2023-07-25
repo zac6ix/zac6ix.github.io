@@ -747,6 +747,7 @@ footer .footer-copyright {
 
   #about .col-md-6 img {
     padding-left: 0px;
+    max-width: 60%;
   }
 
   #blog-single-post .blog-single-post-image img {
