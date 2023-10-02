@@ -631,7 +631,7 @@ a:hover, a:active, a:focus {
 footer {
     background: #53747F;
     color: #ffffff;
-    padding: 80px 0px;
+    padding: 40px 0px;
     position: relative;
 }
 
@@ -738,11 +738,11 @@ footer .footer-copyright {
 @media (max-width: 768px) {
 
   h1 {
-    font-size: 52px;
+    font-size: 40px;
   }
 
   h2 {
-    font-size: 26px;
+    font-size: 20px;
   }
 
   #about .col-md-6 img {
@@ -751,11 +751,11 @@ footer .footer-copyright {
   }
 
   #blog-single-post .blog-single-post-image img {
-    padding-bottom: 22px;
+    padding-bottom: 18px;
   }
 
   footer .col-md-4 {
-    padding-top: 22px;
+    padding-top: 18px;
   }
 
 }
@@ -764,14 +764,14 @@ footer .footer-copyright {
 @media (max-width: 650px) {
 
   h1 {
-    font-size: 42px;
+    font-size: 30px;
   }
 
   #about, #gallery,
   #contact,
   #blog, #blog-single-post {
-    padding-top: 60px;
-    padding-bottom: 60px;
+    padding-top: 40px;
+    padding-bottom: 40px;
   }
 
 }
