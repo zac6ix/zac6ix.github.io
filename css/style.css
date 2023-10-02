@@ -19,13 +19,13 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 h1 {
-    font-size: 62px;
+    font-size: 55px;
     padding-bottom: 14px;
     margin-bottom: 0px;
 }
 
 h2 {
-  font-size: 32px;
+  font-size: 28px;
 }
 
 h2,h3 {
@@ -33,7 +33,7 @@ h2,h3 {
 }
 
 h3 {
-  font-size: 26px;
+  font-size: 22px;
 }
 
 h4 {
@@ -95,8 +95,8 @@ a:hover, a:active, a:focus {
 #contact,
 #blog,
 #blog-single-post {
-  padding-top: 60px;
-  padding-bottom: 80px;
+  padding-top: 30px;
+  padding-bottom: 40px;
 }
 
 .main-about,
